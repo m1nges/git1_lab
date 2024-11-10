@@ -46,7 +46,7 @@ do {
     case 2:
       performAddition($number1, $number2);
       break;
-    case 2:
+    case 3:
       performSubstriction($number1, $number2);
       break;
     case 0:
